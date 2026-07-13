@@ -1,0 +1,7 @@
+[server]
+# Enable Cross-Site Request Forgery (XSRF) protection for secure WebSocket sessions
+enableXsrfProtection = true
+
+[browser]
+# Disable sharing of usage statistics for privacy
+gatherUsageStats = false

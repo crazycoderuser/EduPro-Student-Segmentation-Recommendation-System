@@ -1,0 +1,101 @@
+CourseID,CourseCategory,CourseType,CourseLevel,CourseRating
+C0001,Data Science,Certificate,Beginner,4.35
+C0002,AI/ML,Paid,Advanced,3.89
+C0003,Web Developmen,Paid,Advanced,4.3
+C0004,Business,Paid,Advanced,4.19
+C0005,Cloud Computing,Free,Intermediate,3.77
+C0006,Design,Certificate,Beginner,3.13
+C0007,Web Developmen,Paid,Intermediate,4.64
+C0008,AI/ML,Paid,Intermediate,3.74
+C0009,Design,Paid,Intermediate,4.64
+C0010,Cybersecurity,Paid,Beginner,3.51
+C0011,Data Science,Paid,Intermediate,3.0
+C0012,Cloud Computing,Certificate,Intermediate,3.32
+C0013,AI/ML,Certificate,Advanced,3.94
+C0014,Cybersecurity,Paid,Advanced,4.89
+C0015,Web Developmen,Paid,Intermediate,3.2
+C0016,Business,Free,Intermediate,4.71
+C0017,Design,Paid,Intermediate,4.05
+C0018,Data Science,Free,Beginner,4.65
+C0019,Design,Paid,Advanced,3.6
+C0020,Cloud Computing,Certificate,Advanced,4.68
+C0021,Web Developmen,Paid,Intermediate,4.55
+C0022,Design,Paid,Beginner,3.46
+C0023,Data Science,Paid,Beginner,3.26
+C0024,Web Developmen,Free,Intermediate,4.74
+C0025,Design,Paid,Beginner,4.93
+C0026,Business,Free,Advanced,3.06
+C0027,AI/ML,Free,Beginner,4.46
+C0028,Web Developmen,Paid,Beginner,4.82
+C0029,AI/ML,Paid,Advanced,4.71
+C0030,Web Developmen,Paid,Intermediate,4.93
+C0031,Business,Free,Beginner,4.52
+C0032,AI/ML,Paid,Beginner,3.88
+C0033,Cybersecurity,Paid,Beginner,3.62
+C0034,Data Science,Paid,Intermediate,3.64
+C0035,Cybersecurity,Paid,Beginner,4.45
+C0036,Design,Paid,Intermediate,4.49
+C0037,Business,Paid,Advanced,3.4
+C0038,Cybersecurity,Paid,Beginner,4.74
+C0039,Web Developmen,Certificate,Advanced,4.43
+C0040,Design,Paid,Advanced,4.13
+C0041,Design,Paid,Beginner,3.94
+C0042,Cybersecurity,Paid,Advanced,4.09
+C0043,Cybersecurity,Paid,Intermediate,3.32
+C0044,Business,Certificate,Advanced,3.41
+C0045,Data Science,Paid,Intermediate,3.18
+C0046,Cybersecurity,Paid,Intermediate,3.31
+C0047,Cloud Computing,Paid,Intermediate,3.91
+C0048,Cybersecurity,Paid,Advanced,4.06
+C0049,AI/ML,Paid,Intermediate,3.04
+C0050,Web Developmen,Certificate,Intermediate,4.59
+C0051,Cloud Computing,Paid,Advanced,3.59
+C0052,Cloud Computing,Paid,Beginner,4.82
+C0053,AI/ML,Certificate,Beginner,4.94
+C0054,AI/ML,Free,Beginner,3.37
+C0055,Design,Free,Beginner,3.92
+C0056,Data Science,Paid,Beginner,3.0
+C0057,Web Developmen,Certificate,Advanced,4.2
+C0058,Business,Free,Beginner,4.21
+C0059,Cloud Computing,Free,Intermediate,3.5
+C0060,Business,Free,Beginner,4.12
+C0061,Cybersecurity,Free,Advanced,3.45
+C0062,Cybersecurity,Free,Advanced,3.32
+C0063,Business,Paid,Intermediate,4.3
+C0064,Cybersecurity,Paid,Advanced,3.65
+C0065,Data Science,Free,Beginner,4.18
+C0066,AI/ML,Paid,Advanced,3.87
+C0067,Cybersecurity,Free,Beginner,4.97
+C0068,Design,Paid,Advanced,3.3
+C0069,Cybersecurity,Paid,Beginner,3.93
+C0070,Web Developmen,Paid,Intermediate,4.36
+C0071,Data Science,Free,Advanced,3.79
+C0072,Web Developmen,Paid,Beginner,4.95
+C0073,Web Developmen,Free,Beginner,4.44
+C0074,Design,Certificate,Beginner,4.31
+C0075,Data Science,Paid,Beginner,4.51
+C0076,Data Science,Paid,Intermediate,4.91
+C0077,Data Science,Free,Beginner,4.82
+C0078,Data Science,Certificate,Beginner,4.45
+C0079,Data Science,Free,Beginner,4.5
+C0080,Design,Free,Advanced,3.29
+C0081,Cybersecurity,Paid,Beginner,3.21
+C0082,Web Developmen,Free,Beginner,4.14
+C0083,Data Science,Certificate,Beginner,3.04
+C0084,Cloud Computing,Paid,Intermediate,3.96
+C0085,Cybersecurity,Free,Advanced,3.42
+C0086,Cybersecurity,Paid,Beginner,3.69
+C0087,Web Developmen,Certificate,Beginner,4.55
+C0088,Design,Certificate,Advanced,4.88
+C0089,Business,Paid,Advanced,3.14
+C0090,Business,Certificate,Beginner,4.07
+C0091,Cybersecurity,Certificate,Advanced,4.77
+C0092,AI/ML,Paid,Advanced,3.17
+C0093,AI/ML,Free,Beginner,4.65
+C0094,Web Developmen,Paid,Advanced,3.72
+C0095,Business,Certificate,Intermediate,3.64
+C0096,Cybersecurity,Free,Intermediate,4.95
+C0097,Design,Certificate,Beginner,3.4
+C0098,Business,Free,Beginner,4.39
+C0099,Cybersecurity,Free,Advanced,4.64
+C0100,Cybersecurity,Paid,Advanced,3.08
